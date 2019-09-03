@@ -26,7 +26,7 @@ namespace Conexao_SqlServer.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-000NHHJV;Initial Catalog=DBCliente;User ID=sa;Password=Paradox" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-OT96ST84;Initial Catalog=DBCliente;User ID=sa;Password=Paradox" +
             "o22")]
         public string String {
             get {
