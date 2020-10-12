@@ -130,7 +130,8 @@ namespace Apresentacao_Usuario
         {
             CarregarGrid();
 
-           
+
+            //this.reportViewer1.RefreshReport();
         }
 
         private void txtBuscaNome_TextChanged(object sender, EventArgs e)
